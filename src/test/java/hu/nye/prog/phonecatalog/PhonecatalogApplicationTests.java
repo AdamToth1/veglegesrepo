@@ -1,4 +1,4 @@
-package hu.nye.prog.phonecatalog.phonecatalog;
+package hu.nye.prog.phonecatalog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

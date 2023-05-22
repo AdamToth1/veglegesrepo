@@ -1,4 +1,4 @@
-package hu.nye.prog.phonecatalog.phonecatalog;
+package hu.nye.prog.phonecatalog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
